@@ -82,6 +82,7 @@ Model weights can carry a different license from the code, so check both before 
 
 ## Agent skills and MCP servers
 
+- [CutVoke](https://github.com/frankShan001/CutVoke) - Local-first desktop video editor with a built-in MCP server, so agents and people edit the same multi-track timeline.
 - [DaVinci Resolve MCP](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server that drives DaVinci Resolve Studio through its scripting API: editing, media, render setup and grading.
 - [HyperFrames skills](https://github.com/heygen-com/hyperframes/tree/main/skills) - Agent skills for writing, previewing and rendering HyperFrames videos from Claude Code, Codex, Cursor or Gemini CLI.
 - [Kinocut](https://github.com/KyaniteLabs/kinocut) - Local MCP server and CLI that gives agents checked FFmpeg editing tools, quality gates and an edit record.
